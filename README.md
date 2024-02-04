@@ -1,4 +1,4 @@
-[![Jarell Ow Yong's GitHub Banner](./assets/jarellowyong_banner)](https://jarelloy.github.io)
+[![Jarell Ow Yong's GitHub Banner](./assets/jarellowyong_banner.png)](https://jarelloy.github.io)
 
 # 💫 About Me:
 A passionate backend developer from Singapore <br>
